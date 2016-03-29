@@ -1,0 +1,44 @@
+.wrapper {
+	margin:30px auto;
+	margin-top: 50px;
+	width: 400px;
+	height: 400px;
+}
+
+.grid {
+	background-color: blue;
+	height: 100px;
+	width:100px;
+	display:inline-block;
+	margin-bottom:-5px;
+}
+
+.lil_grid {
+	background-color: grey;
+	height: 30px;
+	width: 30px;
+	margin: 1px 2px 1px 2px;
+	float:left;
+}
+
+.lil_wrapper {
+	margin: 40px auto;
+	margin-top: 40px;
+	border: 1px solid grey;
+}
+
+.highlight {
+	background-color: black;
+}
+
+form {
+	margin:20px auto;
+	width: 300px;
+	display: block;
+}
+
+.topText {
+	margin: auto;
+	display: block;
+	width: 30%;
+}
